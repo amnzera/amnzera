@@ -21,34 +21,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andrebrito16&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=andrebrito16&theme=omni&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebrito16&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnzera&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=andrebrito16&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andrebrito16&repo=andrebrito16&countColorcountColor)]()
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/andrebrito16) 
-  
-
-<!--
-**Talking about Personal Stuffs:**
-
-<img width="55%" align="right" alt="Airplane" src="https://s2.qwant.com/thumbr/700x0/f/0/b42adfc87d753c138a2ec2543563562c271bb5dc15cc9160599239223b8689/cartoon-airplane-drawing-51.png?u=http%3A%2F%2Fgetdrawings.com%2Fimage%2Fcartoon-airplane-drawing-51.png&q=0&b=1&p=0&a=1" />
-
-- 💬 Ask me about anything, I am happy to help;
-- 💡 "Everything you want is a dream away"
-- ✈️ I love airplanes
-- 💻Computer Engineering Student
-- Working at StoneCo. a Brazilian fintech of payment
-
-
-<br />
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/andrebrito16)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/andrefbrito_/)
-[![Twitter](https://img.shields.io/badge/-Twitter-e2e2e2?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/andrebrito16_)
--->
